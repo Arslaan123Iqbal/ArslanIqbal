@@ -27,7 +27,7 @@ const Hero = (props) => (
         </SectionText>
 
         <Button><a href="images/Arslan Iqbal.pdf" style={{color:'white'}} >Download Resume</a></Button>
-        <Button><a href="images/internship.pdf" style={{color:'white'}} >Internship Letter</a></Button>
+
 
         <SectionTitle main center>
           Why you <br />
